@@ -142,7 +142,6 @@ namespace M2MqttUnity
         /// </summary>
         protected virtual void SubscribeTopics()
         {
-           
         }
 
         /// <summary>

@@ -63,6 +63,7 @@ namespace M2MqttUnity.Examples
             AddUiMessage("Test message published.");
         }
 
+
         public void SetBrokerAddress(string brokerAddress)
         {
             if (addressInputField && !updateUI)

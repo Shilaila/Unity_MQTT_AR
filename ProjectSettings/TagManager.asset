@@ -4,12 +4,15 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Receiver
-  - Thermometer
-  - Receiver_temperature
-  - Receiver_licht
-  - Receiver_buttons
-  - plane_for_color
+  - AR_InfinityPlane
+  - AR_Assembly
+  - AR_InteractableCollider
+  - TrainAR
+  - Setup
+  - TrainARObject
+  - AR_Interactable
+  - client
+  - Marker
   layers:
   - Default
   - TransparentFX
@@ -42,7 +45,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - EditorOnly
   m_SortingLayers:
   - name: Default
     uniqueID: 0
